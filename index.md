@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the fruit team ducumentation
 
 You can use the [editor on GitHub](https://github.com/nenils/Documentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -30,6 +30,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
+``markdown
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nenils/Documentation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
